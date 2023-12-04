@@ -25,6 +25,8 @@ antiDbgUiRemoteBreakin():
 
     Attempts to modify the DbgUiRemoteBreakin function to prevent remote debugging.
     Creates a custom patch (DbgUiRemoteBreakinPatch) and applies it to the DbgUiRemoteBreakin function.
+![image](https://github.com/S12cybersecurity/AntiDebugging/assets/79543461/8fcc5067-b949-42f3-9173-8432f78711f7)
+
 
 isDebuggerPresentInRemoteProcess(HANDLE hProcess):
 
